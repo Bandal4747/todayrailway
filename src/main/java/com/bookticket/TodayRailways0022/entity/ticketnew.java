@@ -1,5 +1,5 @@
 package com.bookticket.TodayRailways0022.entity;
 
-public class Ticket {
+public class ticketnew {
 
 }
